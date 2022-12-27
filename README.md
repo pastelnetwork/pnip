@@ -5,3 +5,9 @@ People wishing to submit PNIPs first should propose their idea or document to th
 Having a PNIP here does not make it a formally accepted standard until its status becomes Final or Active.
 
 Those proposing changes should consider that ultimately consent may rest with the consensus of the Pastel Network. Please review our [Governance Process](https://docs.pastel.network/basics/governance) for more details. 
+
+## PNIP Summary
+
+| Number | Layer | Title | Author | Type | Status |
+| ----------- | ----------- | ----------- |
+| [0001](https://github.com/pastelnetwork/pnip/wiki/PNIP-01) | SuperNode | SuperNode's Pastel ID Registration | Andrey Kobrin | Informational | Draft |
