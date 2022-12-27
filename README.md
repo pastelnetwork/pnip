@@ -9,5 +9,5 @@ Those proposing changes should consider that ultimately consent may rest with th
 ## PNIP Summary
 
 | Number | Layer | Title | Author | Type | Status |
-| ----------- | ----------- | ----------- |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | [0001](https://github.com/pastelnetwork/pnip/wiki/PNIP-01) | SuperNode | SuperNode's Pastel ID Registration | Andrey Kobrin | Informational | Draft |
