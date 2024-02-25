@@ -11,3 +11,4 @@ Those proposing changes should consider that ultimately consent may rest with th
 | Number | Layer | Title | Author | Type | Status |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | [0001](https://github.com/pastelnetwork/pnip/wiki/PNIP-01) | SuperNode | SuperNode's Pastel ID Registration | Andrey Kobrin | Informational | Draft |
+| [0002]([https://github.com/pastelnetwork/pnip/wiki/PNIP-01](https://github.com/pastelnetwork/pnip/blob/master/PNIP_0002.md)) | Node | Change to Mining System | Jeffrey Emanuel | Informational | Draft |
